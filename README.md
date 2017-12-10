@@ -4,17 +4,16 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing, going deeper down the rabbit hole. 🐰*
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+## About this awesome list:
+Want to add an awesome list to `awesome-awesome-nodejs` that's related to Node.js? Be sure to read the [contribution guidelines](CONTRIBUTING.md) and then make your change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
-Check out the official [Node.js website](https://nodejs.org) and the Node.js GitHub organization if you'd like to get involved. Find the article that sparked this list on the [NodeSource Blog](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/).
-
-Want to add an awesome list to `awesome-awesome-nodejs` that's related to Node.js? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
+Check out the official [Node.js website](https://nodejs.org) and the [Node.js GitHub organization](https://github.com/nodejs/node) if you'd like to get involved. Find the original article that sparked this list on the [NodeSource Blog](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/).
 
 Like `awesome-awesome-nodejs`? Reach out to [@bitandbang](https://twitter.com/bitandbang) on Twitter to say *hi*! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
 
-* [List Subject](https://github.com/user/awesome-nodejs-list-name) - Kick-arse description of why awesome list is awesome for Node.js users!
+* [List Subject](https://github.com/user/awesome-nodejs-list-name) - Kick-arse description of why the awesome list is awesome for Node.js users!
 
 -- /AWESOME ITEM TEMPLATE -->
 
