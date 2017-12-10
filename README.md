@@ -17,6 +17,13 @@ Like `awesome-awesome-nodejs`? Reach out to [@bitandbang](https://twitter.com/bi
 
 -- /AWESOME ITEM TEMPLATE -->
 
+## Table of Contents
+- [Awesome Node.js Lists](#awesome-nodejs-lists)
+- [Awesome JavaScript Lists](#awesome-javascript-lists)
+- [Awesome Deployment Lists](#awesome-deployment-lists)
+- [Awesome Tool, Framework, and Protocol Lists](#awesome-tool-framework-and-protocol-lists)
+- [Awesome Ecosystem Lists](#awesome-ecosystem-lists)
+
 ## Awesome Node.js Lists
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new)
 
@@ -41,7 +48,6 @@ Know of an awesome list that would fit in this section? [Help add it!](https://g
 
 ## Awesome Tool, Framework, and Protocol Lists
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new)
-
 
 * [Electron](https://github.com/sindresorhus/awesome-electron) - A suite of of resources for building with [Electron](electron.atom.io).
 * [React](https://github.com/enaqx/awesome-react) - List of resources for React, covering just about every concept, methodology, and implementation in the React ecosystem.
