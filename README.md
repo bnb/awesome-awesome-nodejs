@@ -7,7 +7,7 @@
 #### Meta stuff about this awesome list:
 If you'd like to add an awesome list to `awesome-awesome-nodejs` that's related to Node.js? Be sure to read the [contribution guidelines](CONTRIBUTING.md) and then make your change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
-Be sure to check out the official [Node.js website](https://nodejs.org) and the [Node.js GitHub organization](https://github.com/nodejs/node) if you'd like to get involved. Find the original article that sparked this list on the [NodeSource Blog](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/).
+Be sure to check out the official [Node.js website](https://nodejs.org) and the [Node.js GitHub organization](https://github.com/nodejs) if you'd like to get involved. Find the original article that sparked this list on the [NodeSource Blog](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/).
 
 Like `awesome-awesome-nodejs`? Reach out to [@bitandbang](https://twitter.com/bitandbang) on Twitter to say *hi*! 👋
 
