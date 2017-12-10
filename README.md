@@ -37,6 +37,7 @@ Know of an awesome list that would fit in this section? [Help add it!](https://g
 * [ES6 Tools](https://github.com/addyosmani/es6-tools) - Collection of tooling around enabling ES6 features.
 * [Functional Programming](https://github.com/stoeffel/awesome-fp-js) - An extensive list of resources on learning, implementing, and using Functional Programming in JavaScript.
 * [Promises](https://github.com/wbinnssmith/awesome-promises) - A list with a focuses on resources, implementations, and utilities for Promises.
+* [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A list limited to the best learning resources about JavaScript – the language.
 
 ## Awesome Deployment Lists
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new)
