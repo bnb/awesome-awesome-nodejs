@@ -65,3 +65,4 @@ These are lists that don't necessarily fit in one of the above categories, but
 * [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Compilation of a variety of projects based on the Chrome DevTools tooling, by the DevTools team.
 * [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Mad science packages, published on npm, that push the bounds of what JavaScript, Node.js, and a suite of other web technologies can do.
 * [Network-layer JavaScript](https://github.com/Kikobeats/awesome-network-js) - Networking tools, modules, and protocol implementations built with JavaScript and Node.js that enable developers to build against a variety of network layers.
+* [Awesome micro npm packages](https://github.com/parro-it/awesome-micro-npm-packages) - Small, focused npm packages that do one thing well.
