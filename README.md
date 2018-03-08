@@ -29,6 +29,7 @@ Know of an awesome list that would fit in this section? [Help add it!](https://g
 
 * [Node.js](https://github.com/sindresorhus/awesome-nodejs) - The core awesome list for Node.js. 
 * [npm](https://github.com/sindresorhus/awesome-npm) - A list specifically around npm, the package manager bundled with Node.js by default.
+* [Community Curated](https://hackr.io/tutorials/learn-node-js) - A list of recommended NodeJS Courses & Tutorials
 
 ## Awesome JavaScript Lists
 Know of an awesome list that would fit in this section? [Help add it!](https://github.com/bnb/awesome-awesome-nodejs/issues/new)
