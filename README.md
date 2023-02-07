@@ -9,6 +9,8 @@ If you'd like to add an awesome list to `awesome-awesome-nodejs` that's related 
 
 Be sure to check out the official [Node.js website](https://nodejs.org) and the [Node.js GitHub organization](https://github.com/nodejs) if you'd like to get involved. Find the original article that sparked this list on the [NodeSource Blog](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developers/).
 
+if you want a structured guides containing everything you need to know in Node.js, then do visit the famous [Node.js Developer Roadmap](https://roadmap.sh/nodejs)
+
 Like `awesome-awesome-nodejs`? Reach out to [@bitandbang](https://twitter.com/bitandbang) on Twitter to say *hi*! 👋
 
 <!-- AWESOME ITEM TEMPLATE --
